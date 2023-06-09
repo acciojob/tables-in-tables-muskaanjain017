@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+table, th, td, tr{
+	border: solid 2px black;
+	min-width: 100%;
+	text-align: center;
+}
+.html{
+	background-color: black;
+	color: white;
+}
+table{
+	margin: 40px 0px;
+}
